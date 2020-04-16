@@ -1,5 +1,9 @@
 @import "antd/dist/antd.css";
 
+johnny {
+  font-size: 72px;
+}
+
 .App {
   text-align: center;
 }

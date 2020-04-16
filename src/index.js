@@ -5,6 +5,8 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import "antd/dist/antd.css";
 
+document.body.style = "background: #dedede;";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
